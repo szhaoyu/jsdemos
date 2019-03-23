@@ -1,0 +1,139 @@
+21710:   java -Djava.library.path=. HelloWorld
+0000000000400000      4K r-x-- java
+0000000000600000      4K r---- java
+0000000000601000      4K rw--- java
+0000000002334000    132K rw---   [ anon ]
+00000000f0600000   5440K rw---   [ anon ]
+00000000f0b50000  79872K -----   [ anon ]
+00000000f5950000  10944K rw---   [ anon ]
+00000000f6400000 159744K -----   [ anon ]
+0000000100000000    512K rw---   [ anon ]
+0000000100080000 1048064K -----   [ anon ]
+00007f20b3bfe000 528392K rw---   [ anon ]
+00007f20d4000000    132K rw---   [ anon ]
+00007f20d4021000  65404K -----   [ anon ]
+00007f20dc000000    476K rw---   [ anon ]
+00007f20dc077000  65060K -----   [ anon ]
+00007f20e0000000    244K rw---   [ anon ]
+00007f20e003d000  65292K -----   [ anon ]
+00007f20e4000000    132K rw---   [ anon ]
+00007f20e4021000  65404K -----   [ anon ]
+00007f20e9ad7000 103588K r---- locale-archive
+00007f20f0000000    132K rw---   [ anon ]
+00007f20f0021000  65404K -----   [ anon ]
+00007f20f4000000    132K rw---   [ anon ]
+00007f20f4021000  65404K -----   [ anon ]
+00007f20f8000000    132K rw---   [ anon ]
+00007f20f8021000  65404K -----   [ anon ]
+00007f20ff0d6000      4K r-x-- libutil.so
+00007f20ff0d7000   2044K ----- libutil.so
+00007f20ff2d6000      4K r---- libutil.so
+00007f20ff2d7000      4K rw--- libutil.so
+00007f20ff4da000      4K -----   [ anon ]
+00007f20ff4db000   1024K rw---   [ anon ]
+00007f20ff5db000     12K -----   [ anon ]
+00007f20ff5de000   1016K rw---   [ anon ]
+00007f20ff6dc000     12K -----   [ anon ]
+00007f20ff6df000   1016K rw---   [ anon ]
+00007f20ff7dd000     12K -----   [ anon ]
+00007f20ff7e0000   1016K rw---   [ anon ]
+00007f20ff8de000     12K -----   [ anon ]
+00007f20ff8e1000   1016K rw---   [ anon ]
+00007f20ff9df000     12K -----   [ anon ]
+00007f20ff9e2000   1016K rw---   [ anon ]
+00007f20ffae0000     12K -----   [ anon ]
+00007f20ffae3000   1016K rw---   [ anon ]
+00007f20ffbe1000      4K -----   [ anon ]
+00007f20ffbe2000   1336K rw---   [ anon ]
+00007f20ffd30000   1852K r--s- rt.jar
+00007f20ffeff000   5188K rw---   [ anon ]
+00007f2100410000   3840K -----   [ anon ]
+00007f21007d0000     24K rw---   [ anon ]
+00007f21007d6000    312K -----   [ anon ]
+00007f2100824000     40K rw---   [ anon ]
+00007f210082e000   3800K -----   [ anon ]
+00007f2100be4000   2496K rwx--   [ anon ]
+00007f2100e54000 243264K -----   [ anon ]
+00007f210fbe4000     32K r-x-- libzip.so
+00007f210fbec000   2044K ----- libzip.so
+00007f210fdeb000      4K r---- libzip.so
+00007f210fdec000      4K rw--- libzip.so
+00007f210fded000     48K r-x-- libnss_files-2.17.so
+00007f210fdf9000   2044K ----- libnss_files-2.17.so
+00007f210fff8000      4K r---- libnss_files-2.17.so
+00007f210fff9000      4K rw--- libnss_files-2.17.so
+00007f210fffa000     24K rw---   [ anon ]
+00007f2110000000   1508K rw---   [ anon ]
+00007f2110179000  64028K -----   [ anon ]
+00007f2114026000     44K r--s- localedata.jar
+00007f2114031000    168K r-x-- libjava.so
+00007f211405b000   2044K ----- libjava.so
+00007f211425a000      4K r---- libjava.so
+00007f211425b000      8K rw--- libjava.so
+00007f211425d000     52K r-x-- libverify.so
+00007f211426a000   2044K ----- libverify.so
+00007f2114469000      8K r---- libverify.so
+00007f211446b000      4K rw--- libverify.so
+00007f211446c000     28K r-x-- librt-2.17.so
+00007f2114473000   2044K ----- librt-2.17.so
+00007f2114672000      4K r---- librt-2.17.so
+00007f2114673000      4K rw--- librt-2.17.so
+00007f2114674000     84K r-x-- libgcc_s-4.8.5-20150702.so.1
+00007f2114689000   2044K ----- libgcc_s-4.8.5-20150702.so.1
+00007f2114888000      4K r---- libgcc_s-4.8.5-20150702.so.1
+00007f2114889000      4K rw--- libgcc_s-4.8.5-20150702.so.1
+00007f211488a000   1024K r-x-- libm-2.17.so
+00007f211498a000   2048K ----- libm-2.17.so
+00007f2114b8a000      4K r---- libm-2.17.so
+00007f2114b8b000      4K rw--- libm-2.17.so
+00007f2114b8c000    932K r-x-- libstdc++.so.6.0.19
+00007f2114c75000   2048K ----- libstdc++.so.6.0.19
+00007f2114e75000     32K r---- libstdc++.so.6.0.19
+00007f2114e7d000      8K rw--- libstdc++.so.6.0.19
+00007f2114e7f000     84K rw---   [ anon ]
+00007f2114e94000  13272K r-x-- libjvm.so
+00007f2115b8a000   2048K ----- libjvm.so
+00007f2115d8a000    696K r---- libjvm.so
+00007f2115e38000    168K rw--- libjvm.so
+00007f2115e62000    204K rw---   [ anon ]
+00007f2115e95000   1756K r-x-- libc-2.17.so
+00007f211604c000   2044K ----- libc-2.17.so
+00007f211624b000     16K r---- libc-2.17.so
+00007f211624f000      8K rw--- libc-2.17.so
+00007f2116251000     20K rw---   [ anon ]
+00007f2116256000      8K r-x-- libdl-2.17.so
+00007f2116258000   2048K ----- libdl-2.17.so
+00007f2116458000      4K r---- libdl-2.17.so
+00007f2116459000      4K rw--- libdl-2.17.so
+00007f211645a000     56K r-x-- libjli.so
+00007f2116468000   2044K ----- libjli.so
+00007f2116667000      4K r---- libjli.so
+00007f2116668000      4K rw--- libjli.so
+00007f2116669000     84K r-x-- libz.so.1.2.7
+00007f211667e000   2044K ----- libz.so.1.2.7
+00007f211687d000      4K r---- libz.so.1.2.7
+00007f211687e000      4K rw--- libz.so.1.2.7
+00007f211687f000     92K r-x-- libpthread-2.17.so
+00007f2116896000   2044K ----- libpthread-2.17.so
+00007f2116a95000      4K r---- libpthread-2.17.so
+00007f2116a96000      4K rw--- libpthread-2.17.so
+00007f2116a97000     16K rw---   [ anon ]
+00007f2116a9b000    128K r-x-- ld-2.17.so
+00007f2116ac1000    180K rw---   [ anon ]
+00007f2116aee000    152K -----   [ anon ]
+00007f2116b14000     24K rw---   [ anon ]
+00007f2116b1a000    312K -----   [ anon ]
+00007f2116b68000    264K rw---   [ anon ]
+00007f2116baa000     12K -----   [ anon ]
+00007f2116bad000   1036K rw---   [ anon ]
+00007f2116cb0000     32K rw-s- 21710
+00007f2116cb8000      4K rw---   [ anon ]
+00007f2116cb9000      4K r----   [ anon ]
+00007f2116cba000      4K rw---   [ anon ]
+00007f2116cbb000      4K r---- ld-2.17.so
+00007f2116cbc000      4K rw--- ld-2.17.so
+00007f2116cbd000      4K rw---   [ anon ]
+00007fff90251000    132K rw---   [ stack ]
+00007fff903aa000      8K r-x--   [ anon ]
+ffffffffff600000      4K r-x--   [ anon ]
+ total          2782388K
